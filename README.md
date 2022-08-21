@@ -63,9 +63,11 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Node](https://nodejs.org/es/docs/) - El framework web usado
-* [Npm](https://www.npmjs.com/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Node](https://nodejs.org/es/docs/) - Entorno de desarrollo para JavaScript
+* [Express](https://expressjs.com/)   - Framework web para node.js
+* [Npm](https://www.npmjs.com/)       - Manejador de dependencias
+* [git](https://git-scm.com/)         - Sistema de control de versiones
+* [Semver](https://semver.org/)       - Especificación del Versionado Semántico
 
 ## Contribuyendo 🖇️
 
@@ -83,7 +85,7 @@ Usamos [SemVer](https://semver.org/lang/es/) para el versionado. Para todas las 
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Luis Felipe Villamizar Torres** - *Trabajo Inicial* - [Kronomus](https://github.com/Kronomus)
 * **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto.
