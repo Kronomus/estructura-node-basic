@@ -66,7 +66,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Node](https://nodejs.org/es/docs/) - Entorno de desarrollo para JavaScript
 * [Express](https://expressjs.com/)   - Framework web para node.js
 * [Npm](https://www.npmjs.com/)       - Manejador de dependencias
-* [git](https://git-scm.com/)         - Sistema de control de versiones
+* [Git](https://git-scm.com/)         - Sistema de control de versiones
 * [Semver](https://semver.org/)       - Especificación del Versionado Semántico
 
 ## Contribuyendo 🖇️
