@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Arquitectura de una aplicación de node.js
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
