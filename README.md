@@ -67,7 +67,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Express](https://expressjs.com/)   - Framework web para node.js
 * [Npm](https://www.npmjs.com/)       - Manejador de dependencias
 * [Git](https://git-scm.com/)         - Sistema de control de versiones
-* [Semver](https://semver.org/)       - Especificación del Versionado Semántico
 
 ## Contribuyendo 🖇️
 
@@ -96,13 +95,8 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
+* Agradecimiento a [Villanuevand](https://github.com/Villanuevand) por la adecuacion y traduccion al español del documento README.md
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
