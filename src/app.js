@@ -10,14 +10,16 @@ const path      = require('path');    //importamos path para poder utilizar las 
 -------------------------------------------------------------------------------------------------
 -                       Configuraciones iniciales de la aplicación "Setting".                   -
 -------------------------------------------------------------------------------------------------
-port          ---> puerto en el que se ejecutará la aplicación.
-path.join()   ---> unir directorios y archivos.
-views         ---> directorio donde se encuentran las vistas
-engine        ---> motor de plantillas que se utilizará para las vistas
-pug           ---> motor de plantillas pug
-app.set()     ---> configurar una propiedad de la aplicación.
+port             ---> puerto en el que se ejecutará la aplicación.
+path.join()      ---> unir directorios y archivos.
+views            ---> directorio donde se encuentran las vistas
+engine           ---> motor de plantillas que se utilizará para las vistas
+pug              ---> motor de plantillas pug
+app.set()        ---> configurar una propiedad de la aplicación.
+process.env      ---> variable de entorno que se usa para configurar la aplicación.
+process.env.port ---> variable de entorno que se encuentra en el archivo .env
 */
-app.set('port',3000);//configuramos el puerto de la aplicación
+app.set('port',process.env.PORT || 3000);//configuramos el puerto de la aplicación
 app.set('views',path.join(__dirname,'views'));//configuramos la ruta de las vistas
 app.set('view engine','pug');//configuramos el motor de vistas
 /*
