@@ -26,6 +26,8 @@ app.set('view engine','pug');//configuramos el motor de vistas
 -------------------------------------------------------------------------------------------------
 */
 
+
+
 /*
 -------------------------------------------------------------------------------------------------
 -                               rutas de la aplicación "Routes".                                -
@@ -38,7 +40,7 @@ app.set('view engine','pug');//configuramos el motor de vistas
 -                             archivos estáticos "Static files".                                -
 -------------------------------------------------------------------------------------------------
 */
-
+app.use(express.static(path.join(__dirname,'public')));//configuramos la ruta de los archivos estáticos
 
 
 /*
